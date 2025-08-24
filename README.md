@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micjik" alt="micjik" /></a> </p>
 
-- 🔭 I’m currently working on **E commerce**
+- 🔭 I’m currently working on **EmployeePayment**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **full stack project**
 
 - 🤝 I’m looking for help with **chatbox**
 
-- 💬 Ask me about **html, css, react, node, mongodb and relational database**
+- 💬 Ask me about **html, css, asp.net core, Entity Frame Work react, node, mongodb and relational database**
 
 - 📫 How to reach me **adetayomichael290@gmail.com**
 

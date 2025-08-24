@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **chatbox**
 
-- 💬 Ask me about **html, css, asp.net core, Entity Frame Work, C#, Sql Server, react, node, mongodb and relational database**
+- 💬 Ask me about **html, css, asp.net core, Entity Frame Work, MVC, C#, Sql Server, react, node, mongodb and relational database**
 
 - 📫 How to reach me **adetayomichael290@gmail.com**
 
